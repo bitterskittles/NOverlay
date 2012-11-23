@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOverlay", "NOverlay\NOverlay.csproj", "{76057C84-CD23-4FDE-A54F-B63C8E19481B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOverlay.Hook", "NOverlay.Hook\NOverlay.Hook.csproj", "{BE5AD2E6-4821-4481-8D2D-886896D43CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOverlay.Hook.Ipc", "NOverlay.Hook.Ipc\NOverlay.Hook.Ipc.csproj", "{6C0B8A08-70DC-454D-83FF-5E9E8D8E517F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76057C84-CD23-4FDE-A54F-B63C8E19481B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76057C84-CD23-4FDE-A54F-B63C8E19481B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76057C84-CD23-4FDE-A54F-B63C8E19481B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76057C84-CD23-4FDE-A54F-B63C8E19481B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5AD2E6-4821-4481-8D2D-886896D43CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5AD2E6-4821-4481-8D2D-886896D43CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5AD2E6-4821-4481-8D2D-886896D43CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5AD2E6-4821-4481-8D2D-886896D43CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0B8A08-70DC-454D-83FF-5E9E8D8E517F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0B8A08-70DC-454D-83FF-5E9E8D8E517F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0B8A08-70DC-454D-83FF-5E9E8D8E517F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0B8A08-70DC-454D-83FF-5E9E8D8E517F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
